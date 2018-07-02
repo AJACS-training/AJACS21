@@ -6,19 +6,18 @@
 参加者全員がハンズオンでコンピュータを使いながらの講習になりますのでその点ご留意ください。
 
 <dl class="list1" style="padding-left:16px;margin-left:16px">
-    <dt>対象</dt>
-    <dd>ライフサイエンス分野のデータベースを効率よく利用し、研究等に役立てたい方</dd>
-    <dt>日時</dt>
-    <dd>2010年8月4日（水）12:30 ~ 18:00  
-    <span style="color:white">2010年</span>8月5日（木）10:00 ~ 17:00  
-
-    （どちらか片方のみの参加も可能です）</dd>
-    <dt>定員</dt>
-    <dd>約140名（応募者多数の場合は大学生、大学院生を優先させていただきます）</dd>
-    <dt>会場</dt>
-    <dd>東北大学 星陵地区IT教育施設（医学部4号館6階）</dd>
-    <dt>費用</dt>
-    <dd>無料</dd>
+<dt>対象</dt>
+<dd>ライフサイエンス分野のデータベースを効率よく利用し、研究等に役立てたい方</dd>
+<dt>日時</dt>
+<dd>2010年8月4日（水）12:30 ~ 18:00  
+<span style="color:white">2010年</span>8月5日（木）10:00 ~ 17:00  
+（どちらか片方のみの参加も可能です）</dd>
+<dt>定員</dt>
+<dd>約140名（応募者多数の場合は大学生、大学院生を優先させていただきます）</dd>
+<dt>会場</dt>
+<dd>東北大学 星陵地区IT教育施設（医学部4号館6階）</dd>
+<dt>費用</dt>
+<dd>無料</dd>
 </dl>
 
 <dl class="list1" style="padding-left:16px;margin-left:16px">
@@ -58,28 +57,27 @@
 * 12:30 ~ 15:00 統合データベースの利用法
 
     * 統合データベースプロジェクトとは
-    * [統合TVを使い倒す](http://MotDB.DBCLS.jp/?AJACS21%2Fhono "AJACS21/hono (2886d)")　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100828.html#p01)
-    * [統合データベースプロジェクトのサービスを使い倒す](http://MotDB.DBCLS.jp/?AJACS21%2Fbono1 "AJACS21/bono1 (2856d)")　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100823.html#p01)
+    * [統合TVを使い倒す](01_hono1.md)　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100828.html#p01)
+    * [統合データベースプロジェクトのサービスを使い倒す](02_bono1.md)　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100823.html#p01)
 
 * 15:30 ~ 18:00 次世代シーケンサの活用法
 
-    * [DDBJのNGSデータアーカイブ: DRA (DDBJ Sequence Read Archive)](http://MotDB.DBCLS.jp/?AJACS21%2Fyn "AJACS21/yn (2886d)")
-    * [おまけ：第三世代シーケンサ](http://MotDB.DBCLS.jp/?AJACS21%2Fsk2 "AJACS21/sk2 (2886d)")　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100824.html#p01)
-    * [データの解析法](http://MotDB.DBCLS.jp/?AJACS21%2Fbono2 "AJACS21/bono2 (2856d)")　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】](http://togotv.dbcls.jp/20100825.html#p01)
+    * [DDBJのNGSデータアーカイブ: DRA (DDBJ Sequence Read Archive)](03_yn.md)
+    * [おまけ：第三世代シーケンサ](04_kawano.md) [![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100824.html#p01)
+    * [データの解析法](05_bono2.md)　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】](http://togotv.dbcls.jp/20100825.html#p01)
 
 8月5日（木）
 
 * 10:00 ~ 12:30 情報の可視化
 
-    * [ゲノムブラウザ、Cytoscape](http://MotDB.DBCLS.jp/?AJACS21%2Fso "AJACS21/so (2885d)")　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100826.html#p01)
-    * [BodyParts3D/Anatomography](http://MotDB.DBCLS.jp/?AJACS21%2Fmitsuhashi "AJACS21/mitsuhashi (2885d)")
+    * [ゲノムブラウザ、Cytoscape](06_so.md)　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100826.html#p01)
+    * [BodyParts3D/Anatomography](07_mitsuhashi.md)
 
 * 14:00 ~ 17:00 遺伝子発現情報を使い倒す
 
-    * [遺伝子発現データベースの活用法](http://MotDB.DBCLS.jp/?AJACS21%2Fhono2 "AJACS21/hono2 (2885d)")　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100829.html#p01)
-    * [R/Bioconductorを使った遺伝子発現解析](http://MotDB.DBCLS.jp/?AJACS21%2Fwada "AJACS21/wada (2886d)")　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100827.html#p01)
+    * [遺伝子発現データベースの活用法](08_hono2.md)　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100829.html#p01)
+    * [R/Bioconductorを使った遺伝子発現解析](09_wada.md)　[![http://lifesciencedb.jp/image/small_video_icon.png](http://lifesciencedb.jp/image/small_video_icon.png)](http://lifesciencedb.jp/image/small_video_icon.png)[【講習動画】 ](http://togotv.dbcls.jp/20100827.html#p01)
 
-<div class="jumpmenu">↑</div>
 
 ### [_](http://MotDB.DBCLS.jp/?AJACS21#t116d89a "t116d89a") 講師  
 
